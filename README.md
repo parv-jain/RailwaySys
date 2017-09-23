@@ -1,2 +1,2 @@
 # RailwaySys
-C++ based imulation for railway reservation system.
+C++ based simulation for railway reservation system.
